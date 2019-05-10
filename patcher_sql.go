@@ -7,8 +7,8 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/asticode/go-astilog"
 	"github.com/jmoiron/sqlx"
+	"github.com/molotovtv/go-astilog"
 )
 
 // Vars

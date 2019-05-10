@@ -3,11 +3,11 @@ package main
 import (
 	"flag"
 
-	"github.com/asticode/go-astilog"
-	astimysql "github.com/asticode/go-astimysql"
-	"github.com/asticode/go-astipatch"
-	"github.com/asticode/go-astitools/flag"
 	"github.com/jmoiron/sqlx"
+	"github.com/molotovtv/go-astilog"
+	"github.com/molotovtv/go-astimysql"
+	"github.com/molotovtv/go-astipatch"
+	astiflag "github.com/molotovtv/go-astitools/flag"
 )
 
 func main() {
