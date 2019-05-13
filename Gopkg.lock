@@ -35,10 +35,10 @@
   version = "v0.0.7"
 
 [[projects]]
+  branch = "master"
   name = "github.com/molotovtv/go-astilog"
   packages = ["."]
-  revision = "0237323dd944a5c9a95800b060e2747d2d676418"
-  version = "v1.0.0"
+  revision = "0f547a0a27d9148d52a76b9a195bcd05d4b183e9"
 
 [[projects]]
   branch = "master"
@@ -47,10 +47,10 @@
   revision = "93d369eb61ff8de10c69f1aaebad2f7be7771124"
 
 [[projects]]
+  branch = "master"
   name = "github.com/molotovtv/go-astitools"
   packages = ["flag"]
-  revision = "1bf5322ba98b8ef298e34fca3d35af4cf354668a"
-  version = "v1.0.0"
+  revision = "fff656fdefe43d783506e05887b956ebc66cd06d"
 
 [[projects]]
   name = "github.com/pkg/errors"
@@ -88,6 +88,6 @@
 [solve-meta]
   analyzer-name = "dep"
   analyzer-version = 1
-  inputs-digest = "ace6e27ac17b135cd4c54617bf979f1c431053e2add2d5a459ed1155f31de892"
+  inputs-digest = "45731902e0050aea32d870ad8a6f84eba98be591736b7b90f4945d496573ffd7"
   solver-name = "gps-cdcl"
   solver-version = 1

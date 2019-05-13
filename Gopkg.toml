@@ -31,7 +31,7 @@
 
 [[constraint]]
   name = "github.com/molotovtv/go-astilog"
-  version = "1.0.0"
+  branch = "master"
 
 [[constraint]]
   branch = "master"
@@ -39,7 +39,7 @@
 
 [[constraint]]
   name = "github.com/molotovtv/go-astitools"
-  version = "1.0.0"
+  branch = "master"
 
 [prune]
   go-tests = true
