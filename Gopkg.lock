@@ -25,8 +25,8 @@
 [[projects]]
   name = "github.com/mattn/go-colorable"
   packages = ["."]
-  revision = "3a70a971f94a22f2fa562ffcc7a0eb45f5daf045"
-  version = "v0.1.1"
+  revision = "8029fb3788e5a4a9c00e415f586a6d033f5d38b3"
+  version = "v0.1.2"
 
 [[projects]]
   name = "github.com/mattn/go-isatty"
@@ -35,10 +35,10 @@
   version = "v0.0.7"
 
 [[projects]]
-  branch = "master"
+  branch = "v2"
   name = "github.com/molotovtv/go-astilog"
   packages = ["."]
-  revision = "0f547a0a27d9148d52a76b9a195bcd05d4b183e9"
+  revision = "690b1fbd165bc710c64bd05001d6f8999c5ee20c"
 
 [[projects]]
   branch = "master"
@@ -61,8 +61,8 @@
 [[projects]]
   name = "github.com/sirupsen/logrus"
   packages = ["."]
-  revision = "8bdbc7bcc01dcbb8ec23dc8a28e332258d25251f"
-  version = "v1.4.1"
+  revision = "839c75faf7f98a33d445d181f3018b5c3409a45e"
+  version = "v1.4.2"
 
 [[projects]]
   branch = "master"
@@ -88,6 +88,6 @@
 [solve-meta]
   analyzer-name = "dep"
   analyzer-version = 1
-  inputs-digest = "45731902e0050aea32d870ad8a6f84eba98be591736b7b90f4945d496573ffd7"
+  inputs-digest = "7312cc9635daee9c1bfe0fce76f8a534159eab31a2e5b77507fdab10b0007271"
   solver-name = "gps-cdcl"
   solver-version = 1
